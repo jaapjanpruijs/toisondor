@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "nl.mobilecoder.linking",
+               "sha256_cert_fingerprints": ["63:7E:E3:67:95:48:22:C5:27:91:31:4F:3A:47:0A:27:31:BE:2D:CA:43:34:1B:51:23:0C:D9:21:1A:19:73:F1"] }
+}]
